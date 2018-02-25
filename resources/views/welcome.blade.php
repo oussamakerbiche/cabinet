@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel oussama
+                    Laravel ma3za
                 </div>
 
                 <div class="links">
