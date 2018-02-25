@@ -13,12 +13,13 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: #fff;
-                color: #636b6f;
+                background-color: #80deea;
+                color: #9e9e9e;
                 font-family: 'Raleway', sans-serif;
-                font-weight: 100;
+                font-weight: 900;
                 height: 100vh;
                 margin: 0;
+
             }
 
             .full-height {
@@ -79,15 +80,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel nta_laf3a
-                </div>
-
-                <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    Gestion Cabinet
                 </div>
             </div>
         </div>
