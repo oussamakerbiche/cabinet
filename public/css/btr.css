@@ -1,0 +1,3 @@
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus {
+    color: red;
+}

@@ -19,7 +19,8 @@
             }
 
             .m-b-md {
-                margin-bottom: 30px;
+                margin-bottom: 10px;
+                margin-top:100px ;
             }
         </style>
         @extends('layouts.app')
@@ -28,7 +29,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Gestion Cabinet
+                    Gestion Cabinet Medicale
                 </div>
             </div>
         </div>
