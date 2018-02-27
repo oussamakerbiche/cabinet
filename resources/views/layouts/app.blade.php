@@ -16,7 +16,7 @@
     <script src="{{ asset('bootstrap/jquery.min.js') }}"></script>
 
 </head>
-<body>
+<body background="bg.jpg">
     <div id="app">
         <nav class="navbar navbar-expand-lg navbar-light " style="background-color: #e3f2fd;">
   <a class="navbar-brand" href="#">Rendez-Vous</a>
