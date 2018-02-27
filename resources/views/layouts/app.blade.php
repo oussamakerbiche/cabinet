@@ -44,7 +44,8 @@
                                             {{ csrf_field() }}
                                         </form>                             
 
-                           
+                                <a class="navbar-brand" href="{{ route('register') }}">register</a>
+
 
      @endguest                   
 
